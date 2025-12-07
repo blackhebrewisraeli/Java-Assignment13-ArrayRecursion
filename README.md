@@ -82,4 +82,4 @@ The file `Maman13-20454-java-score85.xlsx` includes the official feedback and fi
 ## 📄 License
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-Created by [SemionVlad](https://github.com/SemionVlad) for academic and portfolio purposes. This repository is intended for **non-commercial**, **educational** sharing only.
+Created by [blackhebrewisraeli](https://github.com/blackhebrewisraeli) for academic and portfolio purposes. This repository is intended for **non-commercial**, **educational** sharing only.
